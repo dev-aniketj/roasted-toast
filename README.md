@@ -3,7 +3,7 @@
 
 [![platform](https://img.shields.io/badge/platform-Android-brightgreen.svg?style=flat)](https://www.android.com)
 [![API](https://img.shields.io/badge/API-16%2B-brightgreen.svg?style=flat)](https://android-arsenal.com/api?level=16)
-[![1.0.1](https://jitpack.io/v/dev-aniketj/RoastedToast.svg)](https://jitpack.io/#dev-aniketj/RoastedToast)
+[![1.0.1](https://jitpack.io/v/dev-aniketj/roasted-toast.svg)](https://jitpack.io/#dev-aniketj/roasted-toast)
 
 [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/aniketjain)
 
@@ -26,7 +26,7 @@ Add this to your module's `build.gradle` file (make sure the version matches the
 
 ```
 dependencies {
-	        implementation 'com.github.dev-aniketj:RoastedToast:1.0.1'
+	        implementation 'com.github.dev-aniketj:roasted-toast:1.0.1'
 	}
 ```
 
