@@ -3,7 +3,7 @@
 
 [![platform](https://img.shields.io/badge/platform-Android-brightgreen.svg?style=flat)](https://www.android.com)
 [![API](https://img.shields.io/badge/API-16%2B-brightgreen.svg?style=flat)](https://android-arsenal.com/api?level=16)
-[![1.0.2](https://jitpack.io/v/dev-aniketj/roasted-toast.svg)](https://jitpack.io/#dev-aniketj/roasted-toast)
+[![1.0.2](https://jitpack.io/v/dev-aniketj/roasted-toast.svg)](https://jitpack.io/#dev-aniketj/roasted-toast/1.0.2)
 
 [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/aniketjain)
 
